@@ -56,6 +56,15 @@ function Sidebar(){
           <a href="/#">LINK</a>
           <a href="/#">LINK</a>
         </div>
+        <div className="otherOptions">
+          <a href="/#">Kids Sign In</a>
+        </div>
+        <div className="otherOptions">
+          <a href="/#">Account</a>
+        </div>
+        <div className="otherOptions">
+          <a href="/#">Cart</a>
+        </div>
     </div>
   )
 }

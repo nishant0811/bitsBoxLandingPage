@@ -120,6 +120,15 @@ body{
   margin: 8px;
 }
 
+
+.otherOptions a{
+  display: block;
+  color : white;
+  text-decoration: none;
+  margin-left: 16px;
+  margin-bottom: 8px;
+}
+
 .navbar .middle{
   width: 45%;
 }
