@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bitsBoxLandingPage/static/css/main.e3091585.chunk.css",
+    "main.js": "/bitsBoxLandingPage/static/js/main.6496ee04.chunk.js",
+    "main.js.map": "/bitsBoxLandingPage/static/js/main.6496ee04.chunk.js.map",
+    "runtime-main.js": "/bitsBoxLandingPage/static/js/runtime-main.01909ac7.js",
+    "runtime-main.js.map": "/bitsBoxLandingPage/static/js/runtime-main.01909ac7.js.map",
+    "static/js/2.24a07793.chunk.js": "/bitsBoxLandingPage/static/js/2.24a07793.chunk.js",
+    "static/js/2.24a07793.chunk.js.map": "/bitsBoxLandingPage/static/js/2.24a07793.chunk.js.map",
+    "index.html": "/bitsBoxLandingPage/index.html",
+    "static/css/main.e3091585.chunk.css.map": "/bitsBoxLandingPage/static/css/main.e3091585.chunk.css.map",
+    "static/js/2.24a07793.chunk.js.LICENSE.txt": "/bitsBoxLandingPage/static/js/2.24a07793.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01909ac7.js",
+    "static/js/2.24a07793.chunk.js",
+    "static/css/main.e3091585.chunk.css",
+    "static/js/main.6496ee04.chunk.js"
+  ]
+}
