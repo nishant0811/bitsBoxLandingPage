@@ -1,9 +1,14 @@
+function toggleNav(){
+    document.getElementById('sidebar__container').classList.toggle('active');
+}
+
+
 
 
 function Navbar(){
   return (
     <div className="navbar">
-      <i className="fas fa-bars" id="sidebar" onClick="toggleNav()"></i>
+      <i className="fas fa-bars" id="sidebar" onClick={toggleNav}></i>
       <div className="logo">
         <img src="https://bitsbox.com/img/logo-color.png" alt="" />
       </div>
@@ -117,7 +122,7 @@ function Navbar(){
           </li>
         </ul>
       </div>
-      <div class="right">
+      <div className="right">
         <ul>
           <li><a href="/#">Kids Sign In</a></li>
           <li><a href="/#">Account</a></li>
